@@ -1,0 +1,65 @@
+body{
+  background-image: url(img.jpg);
+  background-size:1300px;
+  background background-repeat: no-repeat;
+  
+}
+#container
+{
+  width: 300px;
+  height:380px;
+  text-align: center;
+  background-color: rgba(52,73,94,0.7);
+  margin-top: 120px;
+  margin-left: 500px;
+  border-radius: 5px;
+  padding-top: 50px;
+}
+input{
+  height: 23px;
+  width: 200px;
+  margin-bottom: 15px;
+  font-size: 15px;
+  font-family:serif;
+
+}
+#btn
+{
+  width: 100px;
+  border-radius: 4px;
+  background-color: #008080;
+  color: aliceblue;
+  margin-top: 13px;
+cursor:pointer;
+}
+a{
+  color: azure;
+  text-decoration: none
+}
+#dept{
+  width: 200px;
+  margin-bottom: 15px;
+  height: 23px;
+}
+#year{
+  width: 200px;
+  margin-bottom: 15px;
+  height: 23px;
+
+}
+#Resume
+{
+  width: 200px;
+}
+label
+{
+  font-family: sans-serif;
+  width: 75px;
+  color: white
+}
+#r{
+   width: 200px;
+   margin-bottom: 15px;
+  height: 23px;
+  resize: none;
+}
