@@ -47,10 +47,7 @@
             
             <textarea placeholder="Resume:" name="resume" class="res" id="r"></textarea>
 
-        <input type="Password" name="pass" placeholder="Password" id="pass" required="" />   
-
-        <input type="Password" name="confirmpass" placeholder="Confirm Password" id="cpass" required="" />   
-
+        
         
         
         <input type="submit" name="submit" value="Register" id="btn"/><br>
